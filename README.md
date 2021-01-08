@@ -13,6 +13,11 @@ ___
 | --- | --- | --- | --- | --- | --- |
 | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="40" height="40" /> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="40" height="40" /> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="40" height="40" /> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="40" height="40" /> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" /> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40" />
 
+<p float="left">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="30" />
+  <img src="/img2.png" width="30" /> 
+  <img src="/img3.png" width="30" />
+</p>
 
 <!--
 **diggleweb/diggleweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
