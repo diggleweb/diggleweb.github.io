@@ -10,7 +10,7 @@ I'm Statistical Bachelor and Fullstack Developer
 ___
 ## Languages and Technologies I use daily
 
-![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=200)
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png?v=4&s=20)
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" data-canonical-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="40" height="40" />
 
