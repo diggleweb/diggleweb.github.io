@@ -1,17 +1,16 @@
 [![Me pague um ☕ ](https://img.shields.io/badge/Buy%20me%20a%20%E2%98%95%20-%20Patreon%20-yellowgreen)](https://paypal.me/ciberninjas "Paga um café para nos")
 [![Github](https://img.shields.io/badge/creator-alexyucra-red)](https://github.com/diggleweb)
-
-
-┈┈┈╲┈┈┈┈╱┈┈┈┈
-┈┈┈╱▔▔▔▔╲┈┈┈┈
-┈┈┃┈▇┈┈▇┈┃┈┈┈
-╭╮┣━━━━━━┫╭╮┈
-┃┃┃┈lex┈dev┈┃┃┃┈
-╰╯┃┈┈┈┈┈┈┃╰╯┈
-┈┈╰┓┏━━┓┏╯┈┈┈
-┈┈┈╰╯┈┈╰╯┈┈┈┈
-
 ___
+
+# Hi, I'm Alex Yucra
+
+### About me
+
+I'm Statistical Bachelor and Fullstack Developer
+
+📃
+## 
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png)
 
 <!--
 **diggleweb/diggleweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
