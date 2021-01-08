@@ -10,12 +10,7 @@ I'm Statistical Bachelor and Fullstack Developer
 ___
 ## Languages and Technologies I use daily
 
-📃
-## 
-
-![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png)
-
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" data-canonical-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="40" height="40" />
 
 <!--
 **diggleweb/diggleweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
