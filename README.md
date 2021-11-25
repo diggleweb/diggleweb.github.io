@@ -1,5 +1,5 @@
 # Hi, I'm Alex Yucra
-[![Me pague um ☕ ](https://img.shields.io/badge/Buy%20me%20a%20%E2%98%95%20-%20Patreon%20-yellowgreen)](https://paypal.me/ciberninjas "Paga um café para nos")
+[![Me pague um ☕ ](https://img.shields.io/badge/Buy%20me%20a%20%E2%98%95%20-%20Patreon%20-yellowgreen)](https://www.patreon.com/devalex "Paga um café para nos")
 [![Github](https://img.shields.io/badge/creator-alexyucra-red)](https://github.com/diggleweb)
 
 ### About me
