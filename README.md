@@ -15,8 +15,8 @@ Experience in regression and classification machine learning models.
 
 ___
 ## Show me the code
-! [how-to-install-streamlit-in-centos-7](https://medium.com/analise-estatistico/how-to-install-streamlit-in-centos-7-68a1d54608f3)
-! [documentar-arquiteturas-usando-o-c4-model](https://www.linkedin.com/pulse/documentar-arquiteturas-usando-o-c4-model-alex-yucra/)
+- [how-to-install-streamlit-in-centos-7](https://medium.com/analise-estatistico/how-to-install-streamlit-in-centos-7-68a1d54608f3)
+- [documentar-arquiteturas-usando-o-c4-model](https://www.linkedin.com/pulse/documentar-arquiteturas-usando-o-c4-model-alex-yucra/)
 ___
 ## Languages and Technologies I use daily
 
