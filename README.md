@@ -4,7 +4,14 @@
 
 ### About me
 
-I'm Statistical Bachelor and Fullstack Developer
+I'm Statistical Bachelor and Fullstack Developer, Junior Data Engineer Business Intelligence and systems developer with 10 years of experience in the IT segment, and 3 years of experience in data analysis, data cleansing, data transformation and data visualization activities. Proficient knowledge in Probability and Statistics.
+Experience in regression and classification machine learning models.
+- Preparation of destination plan
+- Descriptive statistics
+- Frequency distribution
+- Graphics Construction
+- python development
+- backend development
 
 
 ___
