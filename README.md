@@ -15,8 +15,18 @@ Experience in regression and classification machine learning models.
 
 ___
 ## Show me the code
-- [how-to-install-streamlit-in-centos-7](https://medium.com/analise-estatistico/how-to-install-streamlit-in-centos-7-68a1d54608f3)
-- [documentar-arquiteturas-usando-o-c4-model](https://www.linkedin.com/pulse/documentar-arquiteturas-usando-o-c4-model-alex-yucra/)
+
+- [How to install streamlit in CentOS7](https://medium.com/analise-estatistico/how-to-install-streamlit-in-centos-7-68a1d54608f3)
+- [Documentar-arquiteturas-usando-o-c4-model](https://www.linkedin.com/pulse/documentar-arquiteturas-usando-o-c4-model-alex-yucra/)
+- [Install jupyter notebook in CentOS7](https://www.linkedin.com/pulse/jupyterlabs-notebook-centos-7-e-python-37-alex-yucra/)
+
+#### preparing...
+
+- [Deploy streamlit as service [en]](#)
+- [Deploy airflow as service[pt-BR]](#)
+- [Consumir api con aiflow [es]](#)
+- [Automatizacion de processos com airflow- [es]](#)
+- [How to create raport in streamlit with multiples files python](#)
 ___
 ## Languages and Technologies I use daily
 
